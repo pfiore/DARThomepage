@@ -37,6 +37,15 @@ body {
     margin-left: auto;
 }
 
+#row-2 {
+    padding-top: 100px;
+    padding-left: 4%;
+}
+
+#row-3 {
+    padding-left: 4%;
+}
+
 #col-1 {
     margin-top: 5%;
     padding-left: 5%;
@@ -50,13 +59,6 @@ body {
 
 #sign-up {
     border-radius: 20px;
-}
-
-#row-2 {
-    padding-top: 100px;
-    padding-left: 4%;
-}
-
-#row-3 {
-    padding-left: 4%;
+    color: white;
+    background-color: black;
 }
