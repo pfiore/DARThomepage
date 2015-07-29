@@ -22,13 +22,13 @@ body {
 
 .navbar-static-top .navbar-nav>li>a {
     color: #7899be;
-    padding-top: 40px;
+    padding-top: 30px;
     font-size: 18px;
 }
 
 .navbar {
     width: 100%;
-    height: 115px;
+    height: 80px;
     background-color: black;
 }
 
@@ -38,13 +38,14 @@ body {
 }
 
 #row-2 {
-    padding-top: 50px;
-    padding-left: 9%;
+    padding-top: 30px;
+    padding-left: 18%;
+    padding-right: 18%;
 }
 
-#row-3 {
+/*#row-3 {
     padding-left: 9%;
-}
+}*/
 
 #col-1 {
     margin-top: 2%;
@@ -54,11 +55,21 @@ body {
 }
 
 #col-2 {
-    margin-top: 80px;
+    margin-top: 30px;
     padding-right: 50px;
     padding-left: 50px;
     width: 500px;
 }
+
+#col-3 {
+    width: 800px;
+}
+
+/*#col-4 {
+    width: 500px;
+    padding-right: 50px;
+    padding-left: 40px;
+}*/
 
 #sign-up {
     border-radius: 20px;
